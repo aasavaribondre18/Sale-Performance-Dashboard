@@ -2,13 +2,13 @@
 
 📊 A dynamic and interactive Power BI dashboard for visualizing retail sales performance using the Sample Superstore dataset.
 
-🔍 Project Highlights
+# 🔍 Project Highlights
 
 Data Source: Sample Superstore Dataset
 
 Tools Used: Power BI, Excel
 
-KPIs Tracked:
+# KPIs Tracked:
 
 Total Sales 💰
 
@@ -18,7 +18,7 @@ Number of Orders 📦
 
 Total Quantity Sold 📊
 
-✨ # Dashboard Features
+# ✨Dashboard Features
 
 🔄 Time Series Analysis of Sales Over Time
 
@@ -31,7 +31,7 @@ Total Quantity Sold 📊
 💡 Interactive Slicers & Cards for real-time insights
 
 
-🎨 Visual Appeal
+# 🎨 Visual Appeal
 
 Smooth gradients, icon-based KPI cards, modern layout
 
@@ -39,7 +39,7 @@ Theme consistency with bold typography and shadows
 
 🚀 Business Value
 
-This dashboard helps:
+# This dashboard helps:
 
 📊 Identify underperforming regions
 
@@ -48,7 +48,7 @@ This dashboard helps:
 📦 Segment customers for targeted promotions
 
 
-📂 Project Files
+# 📂 Project Files
 
 SampleSuperstore.csv – Dataset used
 
